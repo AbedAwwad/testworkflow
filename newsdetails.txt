@@ -1,1 +1,1 @@
-buggy news details
+working news details
