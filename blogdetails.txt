@@ -1,1 +1,1 @@
-buggy blog details
+working blog details
