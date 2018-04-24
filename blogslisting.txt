@@ -1,2 +1,2 @@
 working blogs listing 
---hidden bug :-D
+--fixed hidden bug :-D
